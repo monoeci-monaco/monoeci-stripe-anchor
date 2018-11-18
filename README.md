@@ -1,4 +1,4 @@
-# Stellar Stripe Anchor
+# Monoeci Stripe Anchor
 
 This is an all-in-one package for running a USD anchor on Stellar using Stripe to accept deposits and pay withdrawals. All you need is an activated Stripe account in the USA, a database, and to be able host this package on an HTTPS domain. It will run a Stellar Bridge for you, and operate entirely autonomously as long as it has sufficient balance.
 
